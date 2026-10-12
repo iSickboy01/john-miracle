@@ -1,18 +1,18 @@
 export const site = {
-  name: "Your Name",
+  name: "John Miracle",
   // Set to false when the site is ready to publish.
   comingSoon: true,
-  role: "Medical student · researcher · builder",
+  role: "medical student · researcher · builder",
   tagline:
-    "I work at the seam of clinical questions, data, and systems that actually ship.",
+    "working at the seam of clinical questions, data, and systems that actually ship.",
   description:
     "Personal site of a medical student interested in research, data science, machine learning, software, and digital operations.",
-  email: "hello@example.com",
+  email: "falomojohn@gmail.com",
   location: "Write from wherever you are",
   social: {
-    github: "https://github.com/yourhandle",
-    linkedin: "https://www.linkedin.com/in/yourhandle",
-    twitter: "https://x.com/yourhandle",
+    github: "https://github.com/isickboy01",
+    linkedin: "https://www.linkedin.com/in/john-falomo",
+    twitter: "https://x.com/incogniteight",
   },
   nav: [
     { href: "/about", label: "About" },
